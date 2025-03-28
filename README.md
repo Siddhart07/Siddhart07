@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Siddhart07
-- 👀 I’m interested in Data Science and Machine Learning...
-- 🌱 I’m currently learning Data Science and Machine Learning...
-- 💞️ I’m looking to collaborate on projects that intensify my learning as I am biggener P.S...
-- 📫 How to reach me ...
+### 👋 Hey there, I’m Siddharth Dutta
 
-<!---
-Siddhart07/Siddhart07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I specialize in building secure, scalable ETL pipelines and marketing analytics systems that eliminate manual chaos and deliver real-time insights.
+
+🔧 Tech I work with: Python • SQL • Power BI • APIs • MySQL • Marketing Data • Stock Market Data
+
+📊 My work spans marketing performance reporting, campaign analytics, e-commerce data pipelines, and stock market visualization tools.
+
+🧠 I’m curious about financial markets, marketing strategy, and solving business problems through clean data.
+
+🛠️ Check out my latest projects in the pinned repos below!
+
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/siddharth-dutta-b0a04575/)
