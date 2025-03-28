@@ -10,4 +10,7 @@
 
 🛠️ Check out my latest projects in the pinned repos below!
 
+### 📊 Dashboard Preview  
+![Dashboard](dashboard_preview.png)
+
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/siddharth-dutta-b0a04575/)
